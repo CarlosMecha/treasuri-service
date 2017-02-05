@@ -1,0 +1,7 @@
+
+# Base
+source ~/.bashrc
+
+# Aliases
+export SERVER=cloud.cmecha.com
+
